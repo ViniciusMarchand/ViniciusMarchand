@@ -1,7 +1,6 @@
 ### 👋 Olá! Eu sou [Seu Nome]
 
 [![Linkedin Badge](https://img.shields.io/badge/-ViniciusMarchand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ViniciusMarchand/)](https://www.linkedin.com/in/vinicius-marchand-31aa7824b/)
-[![Github Badge](https://img.shields.io/badge/-ViniciusMarchand-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusMarchand/)](https://github.com/ViniciusMarchand/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.dasilva.marchand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.dasilva.marchand@gmail.com)](mailto:vinicius.dasilva.marchand@gmail.com@gmail.com)
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e contribuições. 🚀
