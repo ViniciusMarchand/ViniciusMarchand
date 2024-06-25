@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou [Seu Nome]
+### 👋 Olá! Eu sou
 
 [![Linkedin Badge](https://img.shields.io/badge/-ViniciusMarchand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ViniciusMarchand/)](https://www.linkedin.com/in/vinicius-marchand-31aa7824b/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.dasilva.marchand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.dasilva.marchand@gmail.com)](mailto:vinicius.dasilva.marchand@gmail.com@gmail.com)
