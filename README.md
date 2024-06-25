@@ -15,9 +15,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projet
 💻 **Linguagens e Ferramentas:**
 - ![TypeScript](https://img.shields.io/badge/-TypeScipt-333333?style=flat&logo=typescript)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![Java](https://img.shields.io/badge/Java-%3333333.svg??style=for-the-badge&logo=openjdk&logoColor=white)
- - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
- - ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+- ![Java](https://img.shields.io/badge/Java-%3333333.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
