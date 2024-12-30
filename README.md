@@ -1,17 +1,17 @@
-### 👋 Olá! Eu sou o Vinicius Marchand
+### 👋 Hello! I am Vinicius Marchand
 
 [![Linkedin Badge](https://img.shields.io/badge/-ViniciusMarchand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ViniciusMarchand/)](https://www.linkedin.com/in/vinicius-marchand-31aa7824b/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.dasilva.marchand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.dasilva.marchand@gmail.com)](mailto:vinicius.dasilva.marchand@gmail.com@gmail.com)
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e contribuições. 🚀
+Welcome to my GitHub profile! Here you'll find some of my projects and contributions. 🚀
 
-## Sobre Mim
+## About me
 
-🎓 **Formação:** Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+🎓  **Education:** Technology in Systems Analysis and Development
 
-💼 **Trabalho Atual:** Desenvolvedor Full Stack na CESS - Computational Energy Saving Solution
+💼 **Current Job:** Full Stack Developer at CESS - Computational Energy Saving Solution
 
-💻 **Linguagens e Ferramentas:**
+💻 **Languages and Tools:**
 - ![TypeScript](https://img.shields.io/badge/-TypeScipt-333333?style=flat&logo=typescript)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![Java](https://img.shields.io/badge/Java-%3333333.svg??style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projet
 - ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-333333?style=flat&logo=postgresql)
 - ![mySQL](https://img.shields.io/badge/-mySQL-333333?style=flat&logo=mySQL)
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMarchand&layout=compact&theme=dark)](https://github.com/viniciusmarchand)
 
@@ -37,9 +37,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projet
 - [**Projeto 2**](https://github.com/seu-nome/projeto-2): Descrição breve do projeto.
 - [**Projeto 3**](https://github.com/seu-nome/projeto-3): Descrição breve do projeto. -->
 
-## 📫 Como me encontrar
+## 📫  How to find me
 
 - LinkedIn: [Vinicius Marchand](https://www.linkedin.com/in/vinicius-marchand-31aa7824b/)
 - Email: [vinicius.dasilva.marchand@gmail.com](mailto:vinicius.dasilva.marchand@gmail.com)
 
-Obrigado por visitar meu perfil! 😊
+Thank you for visiting my profile! 😊
